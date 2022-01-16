@@ -1,7 +1,7 @@
 <template>
   <form v-on:submit.prevent="submitForm">
     <div>
-      <label for="username">id: </label>
+      <label for="username">id2: </label>
       <input id="username" type="text" v-model="username" />
     </div>
     <div>
